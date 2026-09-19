@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | DISUN ENERGY INTERNATIONAL</title>
+  <meta name="description" content="Privacy Policy of DISUN ENERGY INTERNATIONAL.">
+  <style>
+    :root{--primary:#0b6b3a;--text:#202124;--muted:#5f6368;--bg:#f6f8f7;--card:#fff;--border:#e2e7e4}
+    *{box-sizing:border-box} body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
+    header{background:linear-gradient(135deg,#07552e,#0b8a4b);color:#fff;padding:48px 20px}
+    .wrap{max-width:900px;margin:auto}.brand{font-size:14px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;opacity:.9}
+    h1{font-size:clamp(30px,5vw,46px);margin:10px 0}.updated{opacity:.85;font-size:14px}
+    main{padding:34px 20px 60px}.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:clamp(24px,5vw,48px);box-shadow:0 8px 30px rgba(0,0,0,.04)}
+    h2{font-size:23px;margin:32px 0 10px;color:var(--primary)} h2:first-child{margin-top:0}
+    p{margin:10px 0} ul{padding-left:22px}.contact{background:#f0f7f3;border-left:4px solid var(--primary);padding:18px 20px;border-radius:8px;margin-top:15px}
+    footer{text-align:center;color:var(--muted);font-size:13px;padding:25px 20px}.placeholder{color:#9a6700;font-weight:600}
+  </style>
+</head>
+<body>
+<header><div class="wrap"><div class="brand">DISUN ENERGY INTERNATIONAL</div><h1>Privacy Policy</h1><div class="updated">Last updated: September 19, 2026</div></div></header>
+<main><div class="wrap"><article class="card">
+<h2>Privacy Policy</h2>
+<p>DISUN ENERGY INTERNATIONAL ("Disun Energy", "we", "us", or "our") respects your privacy and is committed to protecting the personal information you provide to us. This Privacy Policy explains how we collect, use, store, and protect information when you communicate with us through WhatsApp, our website, social media platforms, enquiry forms, and other business communication systems.</p>
+
+<h2>Information We Collect</h2>
+<p>We may receive information that you voluntarily provide when communicating or interacting with us, including:</p>
+<ul><li>Your name</li><li>Phone number and WhatsApp number</li><li>Email address</li><li>Location or address provided for site visits or installation enquiries</li><li>Electricity bill information provided for solar system assessment</li><li>Information about your property or electricity requirements</li><li>Messages, enquiries, and other communications</li><li>Information provided through enquiry, quotation, or site-visit forms</li><li>Any other information you voluntarily choose to share with us</li></ul>
+
+<h2>How We Use Information</h2>
+<ul><li>Respond to enquiries and customer requests</li><li>Provide information about solar panels, inverters, rooftop solar systems, and related products or services</li><li>Prepare quotations and solar system proposals</li><li>Assess electricity consumption and solar installation requirements</li><li>Arrange site visits, consultations, installations, and service appointments</li><li>Provide customer support and after-sales assistance</li><li>Communicate with prospective and existing customers</li><li>Send service-related notifications and updates</li><li>Process and manage business enquiries and customer relationships</li><li>Improve our products, services, website, and communication systems</li><li>Comply with applicable legal, regulatory, accounting, and business requirements</li></ul>
+
+<h2>WhatsApp and Business Communications</h2>
+<p>We may use WhatsApp Business, Meta's WhatsApp Business Platform, and other communication technologies to communicate with customers and prospective customers. Communications may include responses to enquiries, quotations, appointment information, service updates, customer support, and other business-related messages. We will not use your information to send promotional communications where applicable consent or other legally required permission is absent. You may request that we stop sending non-essential communications at any time.</p>
+
+<h2>Sharing of Information</h2>
+<p>We do not sell or rent your personal information. Information may be shared or processed where reasonably necessary with employees and authorized representatives, installation and service personnel, technology and communication providers, website/hosting/CRM providers, payment providers, advertising and communication platforms, professional advisers, and government or regulatory authorities where legally required.</p>
+
+<h2>Data Security</h2>
+<p>We take reasonable technical and organizational measures to protect personal information against unauthorized access, alteration, disclosure, loss, misuse, or destruction. However, no internet-based communication or storage system can be guaranteed to be completely secure.</p>
+
+<h2>Data Retention</h2>
+<p>We retain personal information only for as long as reasonably necessary for the purposes described in this Privacy Policy, including business operations, customer support, contractual obligations, accounting, legal, regulatory, and dispute-resolution requirements.</p>
+
+<h2>Your Choices and Rights</h2>
+<p>Depending on applicable law, you may request information about personal data we hold about you, correction of inaccurate information, deletion where applicable, withdrawal of consent where processing is based on consent, and cessation of certain non-essential communications.</p>
+
+<h2>Information Provided About Other Individuals</h2>
+<p>If you provide us with personal information belonging to another person, you are responsible for ensuring that you have the necessary authority, rights, or permission to provide that information to us.</p>
+
+<h2>Third-Party Platforms</h2>
+<p>Our services and communications may use third-party platforms such as WhatsApp, Meta, website hosting services, payment services, analytics services, CRM systems, and other technology providers. Your use of those third-party services may also be governed by their respective terms and privacy policies.</p>
+
+<h2>Children's Privacy</h2>
+<p>Our services are primarily intended for adults and business customers. We do not knowingly request or collect personal information from children for independent use of our services.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. Any updated version will be published on this page with the revised "Last updated" date.</p>
+
+<h2>Contact Us</h2>
+<div class="contact"><strong>DISUN ENERGY INTERNATIONAL</strong><br>
+Email: <span class="placeholder">[YOUR OFFICIAL EMAIL]</span><br>
+Phone: <span class="placeholder">[YOUR OFFICIAL PHONE NUMBER]</span><br>
+Website: <span class="placeholder">[YOUR OFFICIAL WEBSITE]</span><br>
+Business Address: <span class="placeholder">[YOUR OFFICIAL BUSINESS ADDRESS]</span></div>
+</article></div></main>
+<footer>© 2026 DISUN ENERGY INTERNATIONAL. All rights reserved.</footer>
+</body></html>
